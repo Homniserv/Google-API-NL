@@ -12,3 +12,5 @@ Node.js https://www.youtube.com/watch?v=ETeeSYMGZn0
 22mn56 record
 
 23mn04 Tweets sentiment analysis
+
+25mn46 online try sentiment analysis
